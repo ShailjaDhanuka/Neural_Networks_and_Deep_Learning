@@ -1,7 +1,7 @@
 ## Objective
 
 - Implement a **single-layer Multilayer Perceptron (MLP)** from scratch  
-- Perform **binary classification**  
+- Perform ** classification**  
 - Validate correctness using a **PyTorch implementation**
 
 ---
